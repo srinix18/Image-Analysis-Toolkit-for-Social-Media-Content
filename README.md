@@ -1,6 +1,7 @@
 # Image-Analysis-Toolkit-for-Social-Media-Content
 this project contains various codes to extract data from Instagram images that are processed and studied to analyze the factors that affect the engagement of virtual influencer Instagram accounts.
 
+project done over the course of 6 months+ and still working.
 # Virtual Influencer Instagram Image Analysis
 
 Welcome to the Virtual Influencer Instagram Image Analysis project! This project aims to analyze and extract various features from Instagram images posted by virtual influencers. These features include hue, saturation, and contrast analysis, face detection, emotion detection, presence of multiple faces, and more.
